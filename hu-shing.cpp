@@ -1,3 +1,9 @@
+/* Hu-Shing algorithm implementation
+author: junodeveloper (wnsgh224@naver.com)
+date  : 2020.1.30.
+https://github.com/junodeveloper/Hu-Shing
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 namespace HuShing {
