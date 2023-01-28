@@ -201,7 +201,7 @@ namespace HuShing {
 			while(!con[i].empty()) con[i].pop_back();
 			while(!child[i].empty()) child[i].pop_back();
 		}
-		n_arcs=0;
+		n_arcs=n_pqs=0;
 	}
 	void input(const vector<ll>& arr) {
 		n=arr.size();
